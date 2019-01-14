@@ -1,0 +1,1 @@
+Implementation of linked list in golang for education purposes not for use 
