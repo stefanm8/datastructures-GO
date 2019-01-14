@@ -100,12 +100,7 @@ func (l *LinkedList) remove(n *Node) {
 			l.head = nex
 		}
 
-	} else {
-		if p != nil {
-			p.next = nex
-		}
 	}
-
 	if p != nil {
 		p.next = nex
 	}
